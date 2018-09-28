@@ -4,27 +4,27 @@
 
    Version 3.0
 
-   1. Thêm Hiren Boot 2018
-   2. Update Anhdv Boot lên phiên bản 2018
-   3. Sửa lỗi liên kết giữa các file
+   1. Update Hiren Boot 2018
+   2. Update Anhdv Boot to version 2018
+   3. Fix relationship on all boot
 
 
   Version 2.1
  
-   1. Vá lỗi, chỉnh sửa liên kết giữa các boot 
+   1. Fix bugs,  change relationship on all boot
 
 
 
   Version 2.0
 
-   1. Sửa lại boot UEFI
-   2. Thêm app boot cho Anhdv
-   3. Xóa bớt file không cần thiết xuống còn 16.4 GB
+   1. Repair boot UEFI
+   2. Add app boot to Anhdv
+   3. Delete redundant file, down storage to 16.4 GB
 
 
    Version 1.0
 
-   1. Thêm DLC Boot. Liên kết với SuperAIO
-   2. Thêm Anhdv Boot, Liên kết Anhdv với DLC boot
-   3. Gắn Boot ISO AIO vào SuperAIO
-   4. Dựng SuperAIO trên nền tảng của AIO Boot
+   1. Add DLC Boot. relationship to SuperAIO
+   2. Add Anhdv Boot, relationship Anhdv to DLC boot
+   3. Link Boot ISO AIO to SuperAIO
+   4. Build SuperAIO on the AIO Boot
