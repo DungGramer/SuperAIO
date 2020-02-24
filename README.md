@@ -2,9 +2,9 @@
 
 <br/><p align="center">
   <img src="https://img.icons8.com/ultraviolet/24/000000/download-from-cloud.png"> Download link:  
-  <a href="https://mega.nz/#!7QknXJxb!qFUazQrtGYYlIlKkh_yQJS_I_zOGIp9K-2UztjFwtOY">MEGA</a> | 
-  <a href="https://www.fshare.vn/file/1RJ6XU9EX7YX">Fshare</a> |
-  <a href="https://drive.google.com/uc?id=1yUewJGf0kHlT_xMpklDywjQW-6oFnoFm">Google Drive </a>
+  <a href="https://mega.nz/#!7QknXJxb!qFUazQrtGYYlIlKkh_yQJS_I_zOGIp9K-2UztjFwtOY" target="_blank">MEGA</a> | 
+  <a href="https://www.fshare.vn/file/1RJ6XU9EX7YX" target="_blank">Fshare</a> |
+  <a href="https://drive.google.com/uc?id=1yUewJGf0kHlT_xMpklDywjQW-6oFnoFm" target="_blank">Google Drive </a>
 </p> <br/>
 
 <img src="https://scontent.fhph1-2.fna.fbcdn.net/v/t1.0-9/42678868_762586250751531_2927841684848902144_n.jpg?_nc_cat=109&_nc_ohc=1auvsYmp9RsAX8mnNys&_nc_ht=scontent.fhph1-2.fna&oh=46906d163eb283a5bb8b2ed1e46d3db4&oe=5EF49D6B" alt="bootmain.jpg" border="0">
