@@ -3,7 +3,6 @@
 <br/><p align="center">
   <img src="https://img.icons8.com/ultraviolet/24/000000/download-from-cloud.png"> Download link:  
   <a href="https://mega.nz/#!7QknXJxb!qFUazQrtGYYlIlKkh_yQJS_I_zOGIp9K-2UztjFwtOY" target="_blank">MEGA</a> | 
-  <a href="https://www.fshare.vn/file/1RJ6XU9EX7YX" target="_blank">Fshare</a> |
   <a href="https://drive.google.com/uc?id=1yUewJGf0kHlT_xMpklDywjQW-6oFnoFm" target="_blank">Google Drive </a>
 </p> <br/>
 
